@@ -639,7 +639,50 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx206/proprietary/vendor/etc/zoom_noise_reduction/znr_48k_WideCam.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_48k_WideCam.tbl \
     vendor/sony/pdx206/proprietary/vendor/etc/zoom_noise_reduction/znr_48k_defaultCam.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_48k_defaultCam.tbl \
     vendor/sony/pdx206/proprietary/vendor/etc/zoom_noise_reduction/znr_parameter.xml:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_parameter.xml \
+    vendor/sony/pdx206/proprietary/vendor/firmware/L-cs35l41-dsp1-spk-cali.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/L-cs35l41-dsp1-spk-cali.bin \
+    vendor/sony/pdx206/proprietary/vendor/firmware/L-cs35l41-dsp1-spk-prot.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/L-cs35l41-dsp1-spk-prot.bin \
+    vendor/sony/pdx206/proprietary/vendor/firmware/R-cs35l41-dsp1-spk-cali.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/R-cs35l41-dsp1-spk-cali.bin \
+    vendor/sony/pdx206/proprietary/vendor/firmware/R-cs35l41-dsp1-spk-prot.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/R-cs35l41-dsp1-spk-prot.bin \
+    vendor/sony/pdx206/proprietary/vendor/firmware/a615_zap.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/a615_zap.b00 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/a615_zap.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/a615_zap.b01 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/a615_zap.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a615_zap.b02 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/a615_zap.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/a615_zap.elf \
+    vendor/sony/pdx206/proprietary/vendor/firmware/a615_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a615_zap.mdt \
+    vendor/sony/pdx206/proprietary/vendor/firmware/a619_gmu.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/a619_gmu.bin \
+    vendor/sony/pdx206/proprietary/vendor/firmware/a620_zap.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/a620_zap.b00 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/a620_zap.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/a620_zap.b01 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/a620_zap.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a620_zap.b02 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/a620_zap.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/a620_zap.elf \
+    vendor/sony/pdx206/proprietary/vendor/firmware/a620_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a620_zap.mdt \
+    vendor/sony/pdx206/proprietary/vendor/firmware/a630_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a630_sqe.fw \
+    vendor/sony/pdx206/proprietary/vendor/firmware/a650_gmu.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_gmu.bin \
+    vendor/sony/pdx206/proprietary/vendor/firmware/a650_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_sqe.fw \
+    vendor/sony/pdx206/proprietary/vendor/firmware/a650_zap.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_zap.b00 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/a650_zap.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_zap.b01 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/a650_zap.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_zap.b02 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/a650_zap.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_zap.elf \
+    vendor/sony/pdx206/proprietary/vendor/firmware/a650_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_zap.mdt \
+    vendor/sony/pdx206/proprietary/vendor/firmware/cs35l41-dsp1-spk-cali.wmfw:$(TARGET_COPY_OUT_VENDOR)/firmware/cs35l41-dsp1-spk-cali.wmfw \
+    vendor/sony/pdx206/proprietary/vendor/firmware/cs35l41-dsp1-spk-prot.wmfw:$(TARGET_COPY_OUT_VENDOR)/firmware/cs35l41-dsp1-spk-prot.wmfw \
+    vendor/sony/pdx206/proprietary/vendor/firmware/egista.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/egista.b00 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/egista.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/egista.b01 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/egista.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/egista.b02 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/egista.b03:$(TARGET_COPY_OUT_VENDOR)/firmware/egista.b03 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/egista.b04:$(TARGET_COPY_OUT_VENDOR)/firmware/egista.b04 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/egista.b05:$(TARGET_COPY_OUT_VENDOR)/firmware/egista.b05 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/egista.b06:$(TARGET_COPY_OUT_VENDOR)/firmware/egista.b06 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/egista.b07:$(TARGET_COPY_OUT_VENDOR)/firmware/egista.b07 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/egista.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/egista.mdt \
     vendor/sony/pdx206/proprietary/vendor/firmware/touch_module_id_0x94.img:$(TARGET_COPY_OUT_VENDOR)/firmware/touch_module_id_0x94.img \
+    vendor/sony/pdx206/proprietary/vendor/firmware/tzsecuredata.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/tzsecuredata.b00 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/tzsecuredata.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/tzsecuredata.b01 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/tzsecuredata.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/tzsecuredata.b02 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/tzsecuredata.b03:$(TARGET_COPY_OUT_VENDOR)/firmware/tzsecuredata.b03 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/tzsecuredata.b04:$(TARGET_COPY_OUT_VENDOR)/firmware/tzsecuredata.b04 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/tzsecuredata.b05:$(TARGET_COPY_OUT_VENDOR)/firmware/tzsecuredata.b05 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/tzsecuredata.b06:$(TARGET_COPY_OUT_VENDOR)/firmware/tzsecuredata.b06 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/tzsecuredata.b07:$(TARGET_COPY_OUT_VENDOR)/firmware/tzsecuredata.b07 \
+    vendor/sony/pdx206/proprietary/vendor/firmware/tzsecuredata.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/tzsecuredata.mdt \
     vendor/sony/pdx206/proprietary/vendor/lib64/camera/com.sony.sensormodule.cervin_imx363.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.sony.sensormodule.cervin_imx363.bin \
     vendor/sony/pdx206/proprietary/vendor/lib64/camera/com.sony.sensormodule.cervin_imx557.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.sony.sensormodule.cervin_imx557.bin \
     vendor/sony/pdx206/proprietary/vendor/lib64/camera/com.sony.sensormodule.cervin_s5k3t2.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.sony.sensormodule.cervin_s5k3t2.bin \
