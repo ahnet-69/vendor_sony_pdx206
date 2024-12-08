@@ -624,21 +624,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx206/proprietary/vendor/etc/wifi/bdwlan.e17:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bdwlan.e17 \
     vendor/sony/pdx206/proprietary/vendor/etc/wifi/bdwlan.elf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bdwlan.elf \
     vendor/sony/pdx206/proprietary/vendor/etc/wifi/wifi_txpower.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/wifi_txpower.conf \
-    vendor/sony/pdx206/proprietary/vendor/etc/zoom_noise_reduction/znr_44k_ComboCam.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_44k_ComboCam.tbl \
-    vendor/sony/pdx206/proprietary/vendor/etc/zoom_noise_reduction/znr_44k_FrontCHICam.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_44k_FrontCHICam.tbl \
-    vendor/sony/pdx206/proprietary/vendor/etc/zoom_noise_reduction/znr_44k_NoCam.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_44k_NoCam.tbl \
-    vendor/sony/pdx206/proprietary/vendor/etc/zoom_noise_reduction/znr_44k_SWideCam.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_44k_SWideCam.tbl \
-    vendor/sony/pdx206/proprietary/vendor/etc/zoom_noise_reduction/znr_44k_TeleCam.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_44k_TeleCam.tbl \
-    vendor/sony/pdx206/proprietary/vendor/etc/zoom_noise_reduction/znr_44k_WideCam.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_44k_WideCam.tbl \
-    vendor/sony/pdx206/proprietary/vendor/etc/zoom_noise_reduction/znr_44k_defaultCam.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_44k_defaultCam.tbl \
-    vendor/sony/pdx206/proprietary/vendor/etc/zoom_noise_reduction/znr_48k_ComboCam.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_48k_ComboCam.tbl \
-    vendor/sony/pdx206/proprietary/vendor/etc/zoom_noise_reduction/znr_48k_FrontCHICam.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_48k_FrontCHICam.tbl \
-    vendor/sony/pdx206/proprietary/vendor/etc/zoom_noise_reduction/znr_48k_NoCam.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_48k_NoCam.tbl \
-    vendor/sony/pdx206/proprietary/vendor/etc/zoom_noise_reduction/znr_48k_SWideCam.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_48k_SWideCam.tbl \
-    vendor/sony/pdx206/proprietary/vendor/etc/zoom_noise_reduction/znr_48k_TeleCam.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_48k_TeleCam.tbl \
-    vendor/sony/pdx206/proprietary/vendor/etc/zoom_noise_reduction/znr_48k_WideCam.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_48k_WideCam.tbl \
-    vendor/sony/pdx206/proprietary/vendor/etc/zoom_noise_reduction/znr_48k_defaultCam.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_48k_defaultCam.tbl \
-    vendor/sony/pdx206/proprietary/vendor/etc/zoom_noise_reduction/znr_parameter.xml:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_parameter.xml \
     vendor/sony/pdx206/proprietary/vendor/firmware/L-cs35l41-dsp1-spk-cali.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/L-cs35l41-dsp1-spk-cali.bin \
     vendor/sony/pdx206/proprietary/vendor/firmware/L-cs35l41-dsp1-spk-prot.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/L-cs35l41-dsp1-spk-prot.bin \
     vendor/sony/pdx206/proprietary/vendor/firmware/R-cs35l41-dsp1-spk-cali.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/R-cs35l41-dsp1-spk-cali.bin \
